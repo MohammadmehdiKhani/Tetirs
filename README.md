@@ -1,8 +1,8 @@
 # Tetirs
 Implementation of Tetris game, using 8086 Assembly language.
 
-Emulator: DOSbox
-Assembler: TASM
+##Emulator: DOSbox
+##Assembler: TASM
 
 
 

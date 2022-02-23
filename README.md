@@ -4,5 +4,6 @@ Implementation of Tetris game, using 8086 Assembly language.
 Emulator: DOSbox
 Assembler: TASM
 
-https://user-images.githubusercontent.com/50865519/155316494-7f87508d-4c38-4efb-a78f-aced7cd0da61.mp4
 
+
+![gif](https://user-images.githubusercontent.com/50865519/155316933-d5b7c3eb-cee7-499a-a16a-74fafde51b38.gif)
